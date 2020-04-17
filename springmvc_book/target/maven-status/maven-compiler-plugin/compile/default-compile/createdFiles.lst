@@ -1,0 +1,10 @@
+xyz\tom\www\domain\R.class
+xyz\tom\www\service\UserService.class
+xyz\tom\www\dao\BaseDao.class
+xyz\tom\www\dao\impl\UserDaoImpl.class
+xyz\tom\www\controller\UserController.class
+xyz\tom\www\domain\User.class
+xyz\tom\www\config\JdbcConfig.class
+xyz\tom\www\config\SpringMVCConfig.class
+xyz\tom\www\service\impl\UserServiceImpl.class
+xyz\tom\www\dao\UserDao.class
